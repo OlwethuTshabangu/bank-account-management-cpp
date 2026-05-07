@@ -1,6 +1,6 @@
 # Bank Account Management System (C++)
 
-Console-based C++ application that simulates a simple banking system where users can create accounts, deposit funds, withdraw money, and check balances.
+Console-based C++ application that simulates a simple banking system where users can create accounts, deposit funds, withdraw money, and check balances. 
 
 ## Features
 
